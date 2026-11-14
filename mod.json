@@ -1,0 +1,9 @@
+{
+  "name": "Bestiario en el menu",
+  "author": "an0mia",
+  "gameversion": "1.0.3",
+  "modversion": "1.0.0",
+  "languages": "Español, English",
+  "description": "Agrega un acceso directo al bestiario desde el menú / Adds a menu shortcut to the bestiary.",
+  "priority": 0
+}
